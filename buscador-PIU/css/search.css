@@ -1,0 +1,285 @@
+body
+{
+    display: block;
+    background-color: #FFEBB7;
+    font-family: "Comic Sans MS";
+ }
+
+ 
+   #lupa{
+
+      position: absolute;
+      margin-left: 64.3%;
+      margin-top: 8px;
+     }
+
+
+     #h1nihao{
+    font-size: 90px;
+  }
+
+  #h1nihaoresult{
+   font-size: 50px;
+  }
+
+
+
+
+      /*pc*/
+
+   #divcategorias{
+         background-color: #E8CAFF;
+      
+         
+      }
+   
+      
+   
+      
+#fotonihao{
+   margin-left: 5%;
+   margin-top: 4.5%;
+
+
+}
+      
+#divfotonihao{
+   position: absolute;
+   width: 18%;
+   height: 40%;
+   margin-left: 70%;
+   margin-top: 3%;
+   }
+   
+
+      
+  #textoderesultado{ 
+
+   width: 70%;
+   font-size: 98%;
+   padding-left: 12%;
+   display:inline-block;
+   
+  }
+
+      #categorias{
+         margin-top: 0.6%;
+       padding-left: 40px;
+       display:inline-block;
+       text-align: left
+      }
+   
+  #inputsearch{ 
+
+    border: none; /* <-- This thing here */
+    border:solid 1px #ccc;
+    border-radius: 14px;
+ 
+    margin-left: 33.5%;
+  }
+
+    #inputresult{
+      border: none; /* <-- This thing here */
+      border:solid 1px #ccc;
+      border-radius: 14px;
+      margin-left: 37.4%;
+
+
+}
+
+
+
+      /*tablet*/
+ @media screen and (max-width:834px) {
+  #inputsearch{
+
+    border: none; /* <-- This thing here */
+    border:solid 1px #ccc;
+    border-radius: 14px;
+    margin-left: 33.5%;
+ 
+ }
+
+ #inputresult{
+
+   border: none; /* <-- This thing here */
+   border:solid 1px #ccc;
+   border-radius: 14px;
+   margin-left: 36.5%;
+
+ }
+ 
+img{
+    width: 60%;
+    margin: auto;
+    display: block;
+
+}
+
+#categorias{
+   font-size: 98%;
+margin-top: 2%;
+ padding-left: 30px;
+ display:inline-block;
+ text-align: left
+
+}
+
+  #textoderesultado{ 
+
+   width: 70%;
+   font-size: 90%;
+   padding-left: 12%;
+   display:inline-block;
+  }
+
+  #divfotonihao{
+   position: absolute;
+   width: 80%;
+   height: 21%;
+   margin-left: 10%;
+   margin-top: 2%;
+   }
+
+   
+#fotonihao{
+   
+   margin-left: 57%;
+   margin-top: 1.5%;
+
+
+}
+   
+
+ }
+
+
+ @media screen and (max-width:770px) {
+
+   #inputsearch {
+    
+        border: none; /* <-- This thing here */
+        border:solid 1px #ccc;
+        border-radius: 14px;
+        margin-left: 24.5%;
+     
+      }
+
+      #inputresult{
+
+         border: none; /* <-- This thing here */
+         border:solid 1px #ccc;
+         border-radius: 14px;
+         margin-left: 32.5%;
+      
+       }
+
+       #categorias{
+         font-size: 100%;
+      margin-top: 0.6%;
+       padding-left: 20px;
+       display:inline-block;
+       text-align: left
+
+       
+      
+      }
+    
+      #textoderesultado{ 
+         padding-top: 3%;
+         width: 70%;
+         font-size: 80%;
+         padding-left: 12%;
+         display:inline-block;
+     
+        }
+      
+        #divfotonihao{
+         position: absolute;
+         width: 80%;
+         height: 22%;
+         margin-left: 10%;
+         margin-top: 3%;
+         
+         }
+      
+         
+      #fotonihao{
+      
+         margin-left: 9%;
+         margin-top: 2.1%;
+      
+      
+      }
+    }
+
+
+
+
+      /*Celular*/
+ @media screen and (max-width:667px) {
+
+    #inputsearch {
+
+        border: none; 
+        border:solid 1px #ccc;
+        border-radius: 14px;
+        margin-left: 25.5%;
+     
+      }
+
+      #inputresult{
+
+         border: none; /* <-- This thing here */
+         border:solid 1px #ccc;
+         border-radius: 14px;
+         margin-left: 28.5%;
+      
+       }
+
+       #categorias{
+         font-size: 70%;
+        padding-top: 3%;
+      
+      
+      }
+
+
+     }
+
+
+     #searchfooter {
+
+        background-color: #E8CAFF;
+     
+     }
+
+
+     a {
+
+
+        color: black;
+        text-decoration: none;
+     }
+
+
+   button{
+
+border: none;
+background-color: transparent;
+
+    
+
+   }
+
+
+ 
+
+
+
+
+#botoesdepagina{
+
+   margin-left: 50%;
+}
+
